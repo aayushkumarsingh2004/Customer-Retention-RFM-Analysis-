@@ -14,11 +14,11 @@ This project implementated a full data pipeline to analyze customer behavior. By
 
 ### 1. RFM Customer Segmentation
 I categorized the 4,300+ unique customers into 6 distinct segments based on their purchasing behavior. This allows marketing teams to target "At Risk" customers before they churn.
-![RFM Donut Chart](Screenshot%202026-04-09%20023205.png)
+![RFM Donut Chart](Screenshot%20%2811778%29.png)
 
 ### 2. Monthly Cohort Retention Matrix
 This heatmap tracks how many customers from a specific "starting month" return to shop in subsequent months. It highlights critical drop-off points in the customer lifecycle.
-![Cohort Heatmap](Screenshot%202026-04-09%20023131.png)
+![Cohort Heatmap](Screenshot%20%2811779%29.png)
 
 ## 🏗️ The Pipeline
 1. **Extraction:** Cleaned raw transaction data in Jupyter Notebook to handle missing values and unit price anomalies.
